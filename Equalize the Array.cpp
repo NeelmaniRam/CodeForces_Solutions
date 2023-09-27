@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/equality-in-a-array/problem
 problem name:Equalize the Array ;
 status:accepted
-author :mohand sakr
+author :Neelmani Ram
 
 */
 #include  <algorithm>
