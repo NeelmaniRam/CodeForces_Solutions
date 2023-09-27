@@ -3,7 +3,7 @@
 problem link:https://www.hackerrank.com/challenges/flatland-space-stations/problem
 problem name:Flatland Space Station
 status:accepted;
-author : mohand sakr
+Neelmani Ram
 
 
 
