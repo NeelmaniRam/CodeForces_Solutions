@@ -1,7 +1,7 @@
 //============================================================================
 //problem link :https://www.hackerrank.com/contests/rookierank-3/challenges/find-the-bug
 // Name        : Find_the_Bug.cpp
-// Author      : 
+// Author      : Neelmani Ram
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
