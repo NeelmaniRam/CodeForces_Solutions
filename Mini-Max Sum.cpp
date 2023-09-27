@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/mini-max-sum/problem
 problem name:Mini-Max Sum
 status:accepted
-author :mohand sakr
+Neelmani Ram
 
 
 */
