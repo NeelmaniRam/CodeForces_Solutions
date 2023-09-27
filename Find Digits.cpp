@@ -3,7 +3,7 @@
 problem link:https://www.hackerrank.com/challenges/find-digits/problem
 problem name: Find Digits
 status:accpted ;
-author : mohand sakr; 
+Neelmani Ram
 */
 
 
