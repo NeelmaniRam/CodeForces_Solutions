@@ -3,7 +3,7 @@
 problem link:https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem
 problem name:Project Euler #2: Even Fibonacci numbers
 status:accepted.
-author mohand sakr
+Neelmani Ram
 
 */
 #include <cmath>
