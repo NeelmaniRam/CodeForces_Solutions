@@ -1,7 +1,7 @@
 /*
 problem link:https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 status:accepted
-author :mohand sakr
+author :Neelmani
 problem name:Day of the Programmer
 
 
