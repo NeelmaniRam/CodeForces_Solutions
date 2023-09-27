@@ -1,7 +1,7 @@
 //============================================================================
 //problem link : https://www.hackerrank.com/challenges/simple-array-sum
 // Name        : Simple_Array_Sum.cpp
-// Author      : 
+// Author      : Neelmani Ram
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
