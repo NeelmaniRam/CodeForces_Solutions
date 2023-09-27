@@ -2,4 +2,4 @@
 
 
 
-###Sharing my coding questions with solutions for inspired coder enthusiasts.
+*Sharing my coding questions with solutions for inspired coder enthusiasts.
