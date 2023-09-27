@@ -1,7 +1,7 @@
 /*
 problem link:https://www.hackerrank.com/challenges/the-birthday-bar/problem
 problem name: Birthday Chocolate
-author :Moahnd sakr
+Neelmani ram
 satus :accepted .
 
 
