@@ -4,7 +4,7 @@
 problem name:Big Sorting;
 problem link:https://www.hackerrank.com/challenges/big-sorting/problem;
 status:fail on big testcases because time limit;
-author :mohand sakr;
+Neelmani RAM;
 
 
 */
