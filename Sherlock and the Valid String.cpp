@@ -3,7 +3,7 @@
 problem link:https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
 problem name:Sherlock and the Valid String
 status: accepted
-author : mohand sakr
+author : Neelmani Ram
 
 
 
