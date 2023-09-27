@@ -2,7 +2,7 @@
 problem link:
 problem name :Electronics Shop
 staus:accepted 
-author : Mohand Sakr
+Neelmani
 
 
 
