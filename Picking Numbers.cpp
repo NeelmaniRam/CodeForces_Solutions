@@ -5,7 +5,7 @@
 problem name:Picking Numbers.;
 problem link:https://www.hackerrank.com/challenges/picking-numbers/problem
 status:Accepted;
-author :mohand sakr;
+Neelmani Ram
 */
 
 
