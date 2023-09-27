@@ -1,7 +1,7 @@
 //============================================================================
 //problem link:https://www.hackerrank.com/challenges/sock-merchant/problem
 // Name        : Sock Merchant.cpp
-// Author      : Mohand Sakr.
+// Author      : Neelmani
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
