@@ -2,7 +2,7 @@
 problem link: https://www.hackerrank.com/challenges/p1-paper-cutting/problem
 problem name: Arrays - DS
 status:accpted ;
-author : mohand sakr; 
+Neelmani
 */
 
 import java.io.*;
