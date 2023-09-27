@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/kaprekar-numbers/problem
 problem name:Modified Kaprekar Numbers
 status:accept
-author :Mohand Sakr
+author :Neelmani Ram
 
 */
 
