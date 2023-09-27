@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/grading/problem
 problem name:Grading Students
 status:accepted
-author :mohand sakr
+Neelmani Ram
 
 
 */
