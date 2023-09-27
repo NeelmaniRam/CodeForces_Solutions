@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
 problem name: Binary Search Tree : Lowest Common Ancestor
 status:accpted ;
-author : mohand sakr; 
+Neelmani Ram;
 */
 
 
