@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
 problem name:Designer PDF Viewer
 status:accepted
-author: mohand sakr
+author: Neelmani
 
 */
 #include <iostream>
