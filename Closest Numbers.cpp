@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/closest-numbers/problem
 probelm name:Closest Numbers
 satus:accepted
-author:mohand sakr
+author:Neelmani RAM
 
 
 
