@@ -1,7 +1,7 @@
 /*
 problem link:https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 problem name:Breaking the Records
-author :mohand sakr
+Neelmani Ram
 status: accepted
 */
 
