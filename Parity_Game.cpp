@@ -1,7 +1,7 @@
 //============================================================================
 //problem link:https://www.hackerrank.com/contests/hourrank-22/challenges/mancunian-and-parity-game/problem
 // Name        : Parity_Game.cpp
-// Author      : 
+// Author      : Neelmani Ram
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style.
