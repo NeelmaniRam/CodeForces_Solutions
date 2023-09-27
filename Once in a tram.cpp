@@ -1,7 +1,7 @@
 //============================================================================
 //problem link:https://www.hackerrank.com/contests/w34/challenges/once-in-a-tram
 // Name        : Once.cpp
-// Author      : 
+// Author      : Neelmani Ram
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
