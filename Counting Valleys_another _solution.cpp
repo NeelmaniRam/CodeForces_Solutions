@@ -2,7 +2,7 @@
 probelm link:
 status:accepted
 problem name:Counting Valleys
-author : mohand sakr
+author : Neelmani
 */
 
 
