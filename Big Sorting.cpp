@@ -2,7 +2,7 @@
 problem name:Big Sorting;
 problem link:https://www.hackerrank.com/challenges/big-sorting/problem;
 status:acepted;
-author :mohand sakr;
+Neelmani RAM
 
 
 */
