@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 problem name:Climbing the Leaderboard
 status :accepted
-author :mohand sakr..
+Neelmani
 
 */
 
