@@ -3,7 +3,7 @@
 *problem link:https://www.hackerrank.com/challenges/array-left-rotation/problem
 *problem name:Left Rotation
 *status :accepted 
-*author : mohand sakr
+*author :Neelmani Ram
 */
 
 #include <bits/stdc++.h>
