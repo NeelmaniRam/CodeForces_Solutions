@@ -2,7 +2,7 @@
 problem link:
 prolem name:Find the Median
 status:accepted
-author:mohand sakr
+Neelmani Ram
 
 
 */
