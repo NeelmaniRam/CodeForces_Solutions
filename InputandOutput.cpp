@@ -1,7 +1,7 @@
 //============================================================================
 //problem link :https://www.hackerrank.com/challenges/30-arrays
 // Name        : InputandOutput.cpp
-// Author      : mohand sakr
+// Author      : Neelmani Ram
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
