@@ -1,7 +1,7 @@
 //============================================================================
 //problem link:https://www.hackerrank.com/contests/hourrank-20/challenges/hot-and-cold
 // Name        : Hot_and_cold.cpp
-// Author      : 
+// Author      : Neelmani Ram
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
