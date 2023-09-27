@@ -2,7 +2,7 @@
 problem link:https://www.hackerrank.com/challenges/missing-numbers/problem
 probelm name:Missing Numbers
 status: accepted
-author:mohand sakr
+Neelmani Ram
 
 */
 
