@@ -1,7 +1,7 @@
 /*problem name: Jumping on the Clouds
 problem link:
 status:accepted
-author :mohand sakr
+author : Neelmani Ram
 */
 
 #include <iostream>
