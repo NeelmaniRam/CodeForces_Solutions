@@ -3,7 +3,7 @@
 
 //problem link :https://www.hackerrank.com/challenges/java-substring/problem
 //status :accepted
-//author : mohand sakr
+//author : Neelmani Ram
 
 import java.io.*;
 import java.util.*;
